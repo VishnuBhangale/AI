@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Learning\\AI\\AIForDotNet\\FirstChatBoat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A4DC5A6-18DB-B8FB-800F-448B7C1F80CE}|FirstChatBoat\\FirstChatBoat.csproj|c:\\learning\\ai\\aifordotnet\\firstchatboat\\firstchatboat\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{9A4DC5A6-18DB-B8FB-800F-448B7C1F80CE}|FirstChatBoat\\FirstChatBoat.csproj|solutionrelative:firstchatboat\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A4DC5A6-18DB-B8FB-800F-448B7C1F80CE}|FirstChatBoat\\FirstChatBoat.csproj|c:\\learning\\ai\\aifordotnet\\firstchatboat\\firstchatboat\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A4DC5A6-18DB-B8FB-800F-448B7C1F80CE}|FirstChatBoat\\FirstChatBoat.csproj|solutionrelative:firstchatboat\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A4DC5A6-18DB-B8FB-800F-448B7C1F80CE}|FirstChatBoat\\FirstChatBoat.csproj|c:\\learning\\ai\\aifordotnet\\firstchatboat\\firstchatboat\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4DC5A6-18DB-B8FB-800F-448B7C1F80CE}|FirstChatBoat\\FirstChatBoat.csproj|solutionrelative:firstchatboat\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A4DC5A6-18DB-B8FB-800F-448B7C1F80CE}|FirstChatBoat\\FirstChatBoat.csproj|c:\\learning\\ai\\aifordotnet\\firstchatboat\\firstchatboat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A4DC5A6-18DB-B8FB-800F-448B7C1F80CE}|FirstChatBoat\\FirstChatBoat.csproj|solutionrelative:firstchatboat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A4DC5A6-18DB-B8FB-800F-448B7C1F80CE}|FirstChatBoat\\FirstChatBoat.csproj|c:\\learning\\ai\\aifordotnet\\firstchatboat\\firstchatboat\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A4DC5A6-18DB-B8FB-800F-448B7C1F80CE}|FirstChatBoat\\FirstChatBoat.csproj|solutionrelative:firstchatboat\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A4DC5A6-18DB-B8FB-800F-448B7C1F80CE}|FirstChatBoat\\FirstChatBoat.csproj|c:\\learning\\ai\\aifordotnet\\firstchatboat\\firstchatboat\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4DC5A6-18DB-B8FB-800F-448B7C1F80CE}|FirstChatBoat\\FirstChatBoat.csproj|solutionrelative:firstchatboat\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4DC5A6-18DB-B8FB-800F-448B7C1F80CE}|FirstChatBoat\\FirstChatBoat.csproj|c:\\learning\\ai\\aifordotnet\\firstchatboat\\firstchatboat\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9A4DC5A6-18DB-B8FB-800F-448B7C1F80CE}|FirstChatBoat\\FirstChatBoat.csproj|solutionrelative:firstchatboat\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Utilities.cs",
               "DocumentMoniker": "C:\\Learning\\AI\\AIForDotNet\\FirstChatBoat\\FirstChatBoat\\Utilities.cs",
               "RelativeDocumentMoniker": "FirstChatBoat\\Utilities.cs",
@@ -38,24 +38,25 @@
               "RelativeToolTip": "FirstChatBoat\\Utilities.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-24T09:16:37.765Z"
+              "WhenOpened": "2026-10-24T09:16:37.765Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": ".env",
               "DocumentMoniker": "C:\\Learning\\AI\\AIForDotNet\\FirstChatBoat\\FirstChatBoat\\.env",
               "RelativeDocumentMoniker": "FirstChatBoat\\.env",
               "ToolTip": "C:\\Learning\\AI\\AIForDotNet\\FirstChatBoat\\FirstChatBoat\\.env",
               "RelativeToolTip": "FirstChatBoat\\.env",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-10-24T09:14:01.293Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Constant.cs",
               "DocumentMoniker": "C:\\Learning\\AI\\AIForDotNet\\FirstChatBoat\\FirstChatBoat\\Constant.cs",
               "RelativeDocumentMoniker": "FirstChatBoat\\Constant.cs",
@@ -68,13 +69,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Learning\\AI\\AIForDotNet\\FirstChatBoat\\FirstChatBoat\\Program.cs",
               "RelativeDocumentMoniker": "FirstChatBoat\\Program.cs",
               "ToolTip": "C:\\Learning\\AI\\AIForDotNet\\FirstChatBoat\\FirstChatBoat\\Program.cs",
               "RelativeToolTip": "FirstChatBoat\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-24T08:20:52.241Z",
               "EditorCaption": ""

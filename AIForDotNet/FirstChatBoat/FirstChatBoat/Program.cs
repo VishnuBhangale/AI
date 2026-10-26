@@ -6,8 +6,6 @@ Utilities.LoadEnvFile(".env");
 var model = Environment.GetEnvironmentVariable("OPENAI_MODEL") ?? "gpt-6-astra";
 var key = Environment.GetEnvironmentVariable("OPENAI_API_KEY");
 
-//string openkey = "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";
-
 if (string.IsNullOrWhiteSpace(key))
 {
     Console.WriteLine("OPENAI_API_KEY is missing. Add it to the .env file or your environment.");
