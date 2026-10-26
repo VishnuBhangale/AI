@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "WyIPh3xMZtE=",
+  "success": true,
+  "projectFilePath": "C:\\Learning\\AI\\AIForDotNet\\FirstChatBoat\\FirstChatBoat\\FirstChatBoat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bhang\\.nuget\\packages\\chatgpt.net\\2.0.0\\chatgpt.net.2.0.0.nupkg.sha512",
+    "C:\\Users\\bhang\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.3\\microsoft.extensions.configuration.abstractions.10.0.3.nupkg.sha512",
+    "C:\\Users\\bhang\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.3\\microsoft.extensions.dependencyinjection.abstractions.10.0.3.nupkg.sha512",
+    "C:\\Users\\bhang\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\10.0.3\\microsoft.extensions.diagnostics.abstractions.10.0.3.nupkg.sha512",
+    "C:\\Users\\bhang\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\10.0.3\\microsoft.extensions.fileproviders.abstractions.10.0.3.nupkg.sha512",
+    "C:\\Users\\bhang\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\10.0.3\\microsoft.extensions.hosting.abstractions.10.0.3.nupkg.sha512",
+    "C:\\Users\\bhang\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.3\\microsoft.extensions.logging.abstractions.10.0.3.nupkg.sha512",
+    "C:\\Users\\bhang\\.nuget\\packages\\microsoft.extensions.options\\10.0.3\\microsoft.extensions.options.10.0.3.nupkg.sha512",
+    "C:\\Users\\bhang\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.3\\microsoft.extensions.primitives.10.0.3.nupkg.sha512",
+    "C:\\Users\\bhang\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\bhang\\.nuget\\packages\\openai\\2.12.0\\openai.2.12.0.nupkg.sha512",
+    "C:\\Users\\bhang\\.nuget\\packages\\openai.chatgpt\\4.1.0\\openai.chatgpt.4.1.0.nupkg.sha512",
+    "C:\\Users\\bhang\\.nuget\\packages\\system.clientmodel\\1.14.0\\system.clientmodel.1.14.0.nupkg.sha512",
+    "C:\\Users\\bhang\\.nuget\\packages\\system.memory.data\\10.0.3\\system.memory.data.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
